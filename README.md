@@ -1,4 +1,4 @@
-- 👋 Hello, this is Von!
+- 👋 Hello, this is Von (aka Bread Bun)
 - 🌱 I program when I'm not doing art and gaming.
 - 📫 Check out my [carrd](https://vonforus.carrd.co/).
 
