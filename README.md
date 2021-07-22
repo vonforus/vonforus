@@ -1,0 +1,3 @@
+- 👋 Hello, this is Von!
+- 🌱 I program when I'm not writing, drawing or gaming.
+- 📫 Check out my [carrd](https://vonforus.carrd.co/)
